@@ -1,3 +1,4 @@
+![badge](https://github.com/sayantansnl/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
 # learn-cicd-typescript-starter (Notely)
 
 sayantansnl's version of Boot.dev's Notely app.
